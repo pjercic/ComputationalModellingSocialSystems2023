@@ -16,58 +16,54 @@ TODO (dates):
 
 *(Please install Jupyter Notebook before the tutorial sessions takes place, where we can provide help with the installation if something goes wrong.)* The easiest way is using the [Anaconda](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/install.html) distribution, since it is well supported and maintained.
 
-1. [**Basics of agent-based modelling: the micro-macro gap**]()  (08.03.2022)  
+1. [**Basics of agent-based modelling: the micro-macro gap**]()  (08.03.2023)  
 - [**Tutorial: ABM basics in Python with Mesa (session 1)**]()
 
-2. [**Modelling segregation: Schelling's model**]() (15.03.2022)  
+2. [**Modelling segregation: Schelling's model**]() (15.03.2023)  
 - [**Tutorial: ABM basics in Python with Mesa (session 2)**]()
 
-3. [**Sugarscape economic**]() (22.03.2022)  
+3. [**Sugarscape economics model**]() (22.03.2023)  
 - [**Exercise 1: Schelling's model and Pandas (session 1)**]()
 
 ### Block 2: Opinion dynamics
 
-4. [**Basics of spreading: Granovetter's threshold model**]() [[Slides]]()  (29.03.2022)  
+4. [**Basics of spreading: Granovetter's threshold model**]() [[Slides]]()  (29.03.2023)  
 - [**Exercise 1: Schelling's model and Pandas (session 2)**]()
 
-5. [**Opinion dynamics**]() [[Slides]]()  (19.04.2022)  
+5. [**Opinion dynamics**]() [[Slides]]()  (19.04.2023)  
 - [**Exercise 2: Threshold models (session 1)**]()
 
-6. [**Naming game**  (26.04.2022) - Guest lecture by Simon Schweighofer]()    
-- [**Exercise 2: Threshold models (session 2)**]()
+*No class between 9.04.2022 and 23.04.2023: Easter holidays*
 
-*No class between 9.04.2022 and 23.04.2022: Easter holidays*
+6. [**Naming game**  (26.04.2023)]()    
+- [**Exercise 2: Threshold models (session 2)**]()
 
 ### Block 3: Network formation
 
-7. [**Basic network models**]()  (03.04.2022)  
+7. [**Basic network models**]()  (03.05.2023)  
 - [**Exercise 3: Bounded confidence (session 1)**]()
 
-8. [**Modelling small worlds**]()  (05.05.2022)  
+8. [**Modelling small worlds**]()  (10.05.2023)  
 - [**Exercise 3: Bounded confidence (session 2)**]()
 
-9. [**Scale-free networks**]()  (17.05.2022)  
+9. [**Scale-free networks**]()  (17.05.2023)  
 - [**Exercise 4: Scale-free networks and visualization (session 1)**]()
 
 ### Block 4: Behavior on networks
 
-10. [**Growth processes and spreading in networks**]() [[Slides]]()  (24.05.2022)   
+10. [**Growth processes and spreading in networks**]() [[Slides]]()  (24.05.2023)   
 - [**Exercise 4: Scale-free networks and visualization (session 2)**]()
 
-*No class on 26.05.2022: Ascension day*
+11. [**Modelling epidemics: the SEIRX model** - Guest lecture by Jana Lasser]()  (31.05.2023) 
 
-11. [**Modelling epidemics: the SEIRX model**]()  (31.05.2022) 
-
-12. [**Lecture Q&A session**]()  (07 i 14.06.2022)  
+12 & 13. [**Lecture Q&A session**]()  (07.06. and 14.06.2023)  
 *Project guidance*  
 
-*No class on 16.06.2022: Corpus Christi*
+14. **Project presentations** [[Agenda]]() (21.06.2023)
+<!-- - Make sure your whole group is available between 16:00 and 19:00 -->
 
-13. **Project presentations** [[Agenda]]() (21.06.2022)
-- Make sure your whole group is available between 16:00 and 19:00
-
-14. **Project presentations** [[Agenda]]() (28.06.2022)
-- Make sure your whole group is available between 16:00 and 19:00
+15. **Project presentations** [[Agenda]]() (28.06.2023)
+<!-- - Make sure your whole group is available between 16:00 and 19:00 -->
 - **The deadline to submit your final report is July 10th (end of day). You can submit over Teach Center. [projects guide](https://pjercic.github.io/ComputationalModellingSocialSystems2023/ProjectsGuide.html)**
 
 ## Where to access materials
