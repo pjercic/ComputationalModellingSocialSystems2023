@@ -56,7 +56,10 @@ TODO (dates):
 
 11. [**Modelling epidemics: the SEIRX model** - Guest lecture by Jana Lasser]()  (31.05.2023) 
 
-12 & 13. [**Lecture Q&A session**]()  (07.06. and 14.06.2023)  
+12. [**Lecture Q&A session**]()  (07.06.2023)  
+*Project guidance*  
+
+12. [**Lecture Q&A session**]()  (14.06.2023)  
 *Project guidance*  
 
 14. **Project presentations** [[Agenda]]() (21.06.2023)
