@@ -30,10 +30,10 @@ TODO (dates):
 4. [**Basics of spreading: Granovetter's threshold model**]() [[Slides]]()  (29.03.2023)  
 - [**Exercise 1: Schelling's model and Pandas (session 2)**]()
 
+*No class between 9.04.2022 and 23.04.2023: Easter holidays*
+
 5. [**Opinion dynamics**]() [[Slides]]()  (19.04.2023)  
 - [**Exercise 2: Threshold models (session 1)**]()
-
-*No class between 9.04.2022 and 23.04.2023: Easter holidays*
 
 6. [**Naming game**  (26.04.2023)]()    
 - [**Exercise 2: Threshold models (session 2)**]()
