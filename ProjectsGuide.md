@@ -43,7 +43,7 @@ Some basic information:
 
 - You will learn the date when your project presents and when it iss discussant on the week after groups are registered. Prepare as if you would present on the first session.
 
-TODO (dates):- Dates wrap-up:
+- Dates wrap-up:
   - 9.06: First project feedback exercise session
   - 14.06: Second project feedback exercise session and general Q&A session
   - 15.06: last chance to get any feedback from lecturers online via discord
