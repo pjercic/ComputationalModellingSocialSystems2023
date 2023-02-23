@@ -11,7 +11,6 @@ TODO (Denis):I am the Professor for Computational Behavioral and Social Sciences
 ## Course Contents
 The course is organized in 12 lectures grouped together in 4 blocks, plus two sessions in the end for project presentations. The course contains lectures and exercises in python to apply what you learned in the lecture. The online materials do not contain the solutions to the exercises, but if you are stuck or want to start from an easier point, in the github folder of the exercise you can find a version of the exercise with hints. We will add links to materials and readings a few days before each session.
 
-TODO (dates):
 ### Block 1: Fundamentals of agent-based modelling
 
 *(Please install Jupyter Notebook before the tutorial sessions takes place, where we can provide help with the installation if something goes wrong.)* The easiest way is using the [Anaconda](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/install.html) distribution, since it is well supported and maintained.
@@ -22,7 +21,7 @@ TODO (dates):
 2. [**Modelling segregation: Schelling's model**]() (15.03.2023)  
 - [**Tutorial: ABM basics in Python with Mesa (session 2)**]()
 
-3. [**Sugarscape economics model**]() (22.03.2023)  
+3. [**Sugarscape Wealth Distribution model**]() (22.03.2023)  
 - [**Exercise 1: Schelling's model and Pandas (session 1)**]()
 
 ### Block 2: Opinion dynamics
@@ -30,12 +29,12 @@ TODO (dates):
 4. [**Basics of spreading: Granovetter's threshold model**]() [[Slides]]()  (29.03.2023)  
 - [**Exercise 1: Schelling's model and Pandas (session 2)**]()
 
-*No class between 9.04.2022 and 23.04.2023: Easter holidays*
+*No class between 03.04.2023 and 16.04.2023: Easter holidays*
 
 5. [**Opinion dynamics**]() [[Slides]]()  (19.04.2023)  
 - [**Exercise 2: Threshold models (session 1)**]()
 
-6. [**Naming game**  (26.04.2023)]()    
+6. [**Naming game language model**  (26.04.2023)]()    
 - [**Exercise 2: Threshold models (session 2)**]()
 
 ### Block 3: Network formation
@@ -67,6 +66,7 @@ TODO (dates):
 
 15. **Project presentations** [[Agenda]]() (28.06.2023)
 <!-- - Make sure your whole group is available between 16:00 and 19:00 -->
+
 - **The deadline to submit your final report is July 10th (end of day). You can submit over Teach Center. [projects guide](https://pjercic.github.io/ComputationalModellingSocialSystems2023/ProjectsGuide.html)**
 
 ## Where to access materials
@@ -74,16 +74,11 @@ TODO (dates):
 - Reading lists, codes, and data can be found on the [Github repository of the course](https://github.com/pjercic/ComputationalModellingSocialSystems2023).
 - Students at TU Graz can access the [course at Teach Center](https://tc.tugraz.at/main/enrol/index.php?id=4384) to get additional information, watch videos, and to participate in the forums.
 
-
 ## Place and time
 
-TODO (room):The course takes place on Wednesdays at 15:15 (sharp), with a **lecture followed by an exercise session**. The first session of the course will take place in room [HS F (Kopernicusgasse 24)](https://online.tugraz.at/tug_online/ris.ris?pOrgNr=37&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=350003&pRaumNr=568&pActionFlag=A&pShowEinzelraum=J) with live streaming over Webex (see TeachCenter for the link). From the second week of the course, the course will take place in [HS i7 (Inffeldgasse)](https://online.tugraz.at/tug_online/ris.ris?pOrgNr=37&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=240001&pRaumNr=4030&pActionFlag=A&pShowEinzelraum=J) and streaming will take place through the standard TU Graz streaming system. 
+The course takes place on Wednesdays at 15:15 (sharp), with a **lecture followed by an exercise session**. The sessions of the course will take place in room [HS A, Kopernikusgasse 24, 1st floor](https://online.tugraz.at/tug_online/ris.ris?pOrgNr=37&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=350001&pRaumNr=4010&pActionFlag=A&pShowEinzelraum=J).
 
-The semester starts with a yellow light, so we will start in hybrid mode with limited occupancy in person. When attending in person, proof of 2G status might be required and seating space is limited depending on varying policies. Seating will be given in a first-come-first-served basis each session and students that do not fit will have to follow the lecture online from another place.
-
-TODO (office hour):There is an extra online exercise support group on Tuesday at 11:00 (sharp). Check TeachCenter for the webex link.
-
-
+There is an extra online exercise support group on Tuesday at 11:00 (sharp). Check TeachCenter for the webex link.
 
 ## Course grading
 
@@ -91,8 +86,8 @@ The assessment for the course is based on four components:
 
 TODO (dates):- Exercises done in groups of **one or two students**
   - Exercise 1: ungraded
-  - Exercise 2: **25% of final grade**. Deadline: 20.04.2022
-  - Exercise 3: **25% of final grade**. Deadline: 18.05.2022
+  - Exercise 2: **25% of final grade**. Deadline: 18.04.2022
+  - Exercise 3: **25% of final grade**. Deadline: 23.05.2022
   - Exercise 4: ungraded
   
 - Final group project in groups of **up to four students**. Projects are linked to two evaluations:
@@ -100,6 +95,5 @@ TODO (dates):- Exercises done in groups of **one or two students**
   - Project report and codes: **25% of final grade**
 
 You can find more information about the project presentations and reports, including deadlines, in the [projects guide.](https://pjercic.github.io/ComputationalModellingSocialSystems2023/ProjectsGuide.html) You can also find some guidance and recommendations in the [slides of the project support session.]()
-
 
 Graded exercises need to be submitted on teach center by the deadline (end of day in Graz time). We will provide solution files for ungraded exercises for you to check your progress. Nevertheless, we expect to see in your projects the techniques covered in the exercises, both graded and ungraded.
