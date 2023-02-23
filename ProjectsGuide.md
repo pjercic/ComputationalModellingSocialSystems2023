@@ -10,17 +10,17 @@ Some basic information:
 
 - The format of project presentations will be the following: one group will present their work, after which another group will oppose and constructively criticize their work and propose improvements or ask clarification questions. For the second day of presentations, they will reverse their roles, with second group presenting and the first group discussing.
 
-TODO (dates):- Group presentations will take place **online in Webex** in two dates: 23.06 and 30.06. We will share the Webex link on Teach Center. Each presentation will have a time limit of 10 minutes, followed by 10 minutes for discussion. Each student in the group has to participate in both their project presentation and their discussion round.
+- Group presentations will take place **online in Webex** in two dates: 21.06 and 28.06. We will share the Webex link on Teach Center. Each presentation will have a time limit of 10 minutes, followed by 10 minutes for discussion. Each student in the group has to participate in both their project presentation and their discussion round.
 
 - Every student has to attend to **both sessions** because each student will be presenter in one session and discussant in the other one. 
 
-TODO (dates):- We will prepare an entry in Teach Center for you to register your group and after all groups are registered, we will announce the agenda for each session including which group presents and which is the discussant. **The deadline for group registrations is 11.06. The agenda with times and who presents will be announced over the following week, after the groups have been registered**.
+- We will prepare an entry in Teach Center for you to register your group and after all groups are registered, we will announce the agenda for each session including which group presents and which is the discussant. **The deadline for group registrations is 11.06. The agenda with times and who presents will be announced over the following week, after the groups have been registered**.
 
 - Discussants only need to pay attention to the presentation and ask questions or propose improvements afterwards. To qualify for the full grade, each student in your group has to ask a question when you are a discussant. After that, lecturers might ask questions and also make comments.
 
-TODO (dates):- You can get guidance for your project during the exercise sessions of 2.06 and 9.06. From 10.06 there will be no more project guidance from the side of the lecturers.
+- You can get guidance for your project during the exercise sessions of 07.06 and 14.06. From 15.06 there will be no more project guidance from the side of the lecturers.
 
-TODO (dates):- The deadline to submit your report is **July 10th** (end of day). You can submit over Teach Center.
+- The deadline to submit your report is **July 9th** (end of day). You can submit over Teach Center.
 
 - Reports must be in pdf format, briefly explaining the project and its results. **Do not submit python code or notebooks.**
 
@@ -44,11 +44,11 @@ TODO (dates):- The deadline to submit your report is **July 10th** (end of day).
 - You will learn the date when your project presents and when it iss discussant on the week after groups are registered. Prepare as if you would present on the first session.
 
 TODO (dates):- Dates wrap-up:
-  - 2.06: First project feedback exercise session
-  - 9.06: Second project feedback exercise session and general Q&A session
-  - 10.06: last chance to get any feedback from lecturers online via discord
+  - 9.06: First project feedback exercise session
+  - 14.06: Second project feedback exercise session and general Q&A session
+  - 15.06: last chance to get any feedback from lecturers online via discord
   - 11.06: Deadline to register your group in Teach Center. The agenda will be announced over the following week.
-  - 23.06: First presentations session
-  - 30.06: Second presentations session
-  - 10.07: Project report deadline
+  - 21.06: First presentations session
+  - 28.06: Second presentations session
+  - 09.07: Project report deadline
   
