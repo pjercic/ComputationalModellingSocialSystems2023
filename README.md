@@ -1,12 +1,12 @@
 # Computational Modelling Social Systems
-TODO (Denis):[David Garcia](http://dgarcia.eu), 2022
+[Denis Helic](https://courses.isds.tugraz.at/dhelic/), 2023
 
 Welcome to the online materials for Computational Modelling of Social Systems. 
-In this course, you will learn how to formulate and analyze computational models of social systems, in particular to study social interaction and the behavior of large groups of people and whole societiess. The course integrates contentz about social dynamics and analytic tools to understand the complex behavior of social systems. After this course, you will acquire programming skills to implement, simulate, and visualize these models.
+In this course, you will learn how to formulate and analyze computational models of social systems, in particular to study social interaction and the behavior of large groups of people and whole societies. The course integrates contents about social dynamics and analytic tools to understand the complex behavior of social systems. After this course, you will acquire programming skills to implement, simulate, and visualize these models.
 
 ## Who am I?
 
-TODO (Denis):I am the Professor for Computational Behavioral and Social Sciences the Graz University of Technology, where I lead the [Computational Social Science Lab](http://www.csslab.at). I am also group leader at the Medical University of Vienna and at the Complexity Science Hub Vienna. My background is Computer Science but I worked my whole career with psychologists, sociologists and physicists to learn new ways to understand human behavior. I got my PhD from ETH Zurich in 2012 and a habilitation in 2018, starting to work as full professor TU Graz in 2020. To learn more about my research, check my [publications](https://dgarcia.eu/full-publication-list/). I teach this course in collaboration with the two postdoctoral researcher in the Computational Social Science Lab [Dr. Petar Jerčić](https://petarjercic.com/).
+I am the Professor of Data Science at the Modul University Vienna, where I am the Head of School of Applied Data Science. My background is Computer Science but in my research I collaborate also with psychologists, social scientists and physicists to learn new ways to understand user and human behavior. I got my PhD from Graz University in Technology in 2001 and a habilitation in 2007. To learn more about my research, check my [publications](https://scholar.google.at/citations?user=7tAilWQAAAAJ&hl=de). I teach this course in collaboration with a postdoctoral researcher from Graz University of Technology [Dr. Petar Jerčić](https://petarjercic.com/).
 
 ## Course Contents
 The course is organized in 12 lectures grouped together in 4 blocks, plus two sessions in the end for project presentations. The course contains lectures and exercises in python to apply what you learned in the lecture. The online materials do not contain the solutions to the exercises, but if you are stuck or want to start from an easier point, in the github folder of the exercise you can find a version of the exercise with hints. We will add links to materials and readings a few days before each session.
