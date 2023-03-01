@@ -84,10 +84,10 @@ There is an extra online exercise support group on Tuesday at 11:00 (sharp). Che
 
 The assessment for the course is based on four components:
 
-TODO (dates):- Exercises done in groups of **one or two students**
+- Exercises done in groups of **one or two students**
   - Exercise 1: ungraded
-  - Exercise 2: **25% of final grade**. Deadline: 18.04.2022
-  - Exercise 3: **25% of final grade**. Deadline: 23.05.2022
+  - Exercise 2: **25% of final grade**. Deadline: 17.04.2023
+  - Exercise 3: **25% of final grade**. Deadline: 22.05.2023
   - Exercise 4: ungraded
   
 - Final group project in groups of **up to four students**. Projects are linked to two evaluations:
