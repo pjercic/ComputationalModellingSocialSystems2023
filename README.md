@@ -15,11 +15,11 @@ The course is organized in 11 lectures grouped together in 4 blocks, plus two se
 
 *(Please install Jupyter Notebook before the tutorial sessions takes place, where we can provide help with the installation if something goes wrong.)* The easiest way is using the [Anaconda](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/install.html) distribution, since it is well supported and maintained.
 
-1. [**Basics of agent-based modelling: the micro-macro gap**]()  (08.03.2023)  
-- [**Tutorial: ABM basics in Python with Mesa (session 1)**]()
+1. [**Basics of agent-based modelling: the micro-macro gap**](https://pjercic.github.io/ComputationalModellingSocialSystems2023/01_Introduction/Introduction.html)  (08.03.2023)  
+- [**Tutorial: ABM basics in Python with Mesa (session 1)**](https://pjercic.github.io/ComputationalModellingSocialSystems2023/Exercise_00_Tut/Exercise_Tutorial.html)
 
 2. [**Modelling segregation: Schelling's model**]() (15.03.2023)  
-- [**Tutorial: ABM basics in Python with Mesa (session 2)**]()
+- [**Tutorial: ABM basics in Python with Mesa (session 2)**](https://pjercic.github.io/ComputationalModellingSocialSystems2023/Exercise_00_Tut/Exercise_Tutorial.html)
 
 3. [**Sugarscape Wealth Distribution model**]() (22.03.2023)  
 - [**Exercise 1: Schelling's model and Pandas (session 1)**]()
