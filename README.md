@@ -76,7 +76,7 @@ The course is organized in 11 lectures grouped together in 4 blocks, plus two se
 
 ## Place and time
 
-The course takes place on Wednesdays at 15:15 (sharp), with a **lecture followed by an exercise session**. The sessions of the course will take place in room [HS A, Kopernikusgasse 24, 1st floor](https://online.tugraz.at/tug_online/ris.ris?pOrgNr=37&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=350001&pRaumNr=4010&pActionFlag=A&pShowEinzelraum=J).
+The course takes place on Wednesdays at 15:00 (sharp), with a **lecture followed by an exercise session**. The sessions of the course will take place in room [HS A, Kopernikusgasse 24, 1st floor](https://online.tugraz.at/tug_online/ris.ris?pOrgNr=37&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=350001&pRaumNr=4010&pActionFlag=A&pShowEinzelraum=J).
 
 There is an extra online exercise support group on Tuesday at 11:00 (sharp). Check TeachCenter for the webex link.
 
