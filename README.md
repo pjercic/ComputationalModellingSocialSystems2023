@@ -55,6 +55,8 @@ The course is organized in 11 lectures grouped together in 4 blocks, plus two se
 
 11. [**Modelling epidemics: the SEIRX model** - Guest lecture by Jana Lasser]()  (31.05.2023) 
 
+### Block 5: Project
+
 12. [**Lecture Q&A session**]()  (07.06.2023)  
 *Project guidance*  
 
